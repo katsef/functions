@@ -1,6 +1,6 @@
 {
     "name": "webazon/functions",
-    "description": "Descr",
+    "description": "PHP библиотека полезных функций",
     "type": "library",
     "license": "MIT",
     "autoload": {
